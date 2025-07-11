@@ -1,3 +1,20 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Data Status](https://img.shields.io/badge/Data-Incoming-orange)
+![Language](https://img.shields.io/badge/Language-English-blue)
+
+---
+
+### 🧠 Key Technical Skills Demonstrated
+
+- 📊 Advanced financial data analysis (issuance patterns, sector exposure)
+- 🧮 ESG & credit risk correlation modeling
+- 🗺 Gap & risk matrix building using real-world frameworks
+- 📈 Data visualization with Python (heatmaps, bar charts, timelines)
+- 🏛 EU sustainable finance regulation analysis (GBS, Taxonomy)
+- 🧰 Tools: pandas, seaborn, scikit-learn, plotly, Excel
+
+---
+
 # 🇩🇪 Basierend auf meinem Artikel:
 👉 [Greenwashed Promises und Transition Scams – Warum Europas Anleihenmärkte ein Glaubwürdigkeitsproblem haben](https://www.linkedin.com/pulse/greenwashed-promises-und-transition-scams-warum-saveeza-chaudhry--zx1xf)
 
@@ -9,6 +26,16 @@
 
 > **A professional research & data analytics project exploring credibility gaps, policy risk, and country-level exposure in European transition bonds.**  
 > Combines data science, financial analysis, and ESG policy review to assess whether transition bonds drive real impact — or just greenwashing.
+
+---
+
+## 📚 Table of Contents
+- [About This Project](#-about-this-project)
+- [What Makes This Project Unique](#-what-makes-this-project-unique)
+- [Structure](#-structure)
+- [Research Series](#-part-of-my-esg--transition-bonds-research-series)
+- [Why This Matters](#-why-this-matters)
+- [Status](#-status)
 
 ---
 
