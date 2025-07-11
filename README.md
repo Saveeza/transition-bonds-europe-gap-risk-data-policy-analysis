@@ -4,24 +4,6 @@
 
 ---
 
-### 🧠 Key Technical Skills Demonstrated
-
-- 📊 Advanced financial data analysis (issuance patterns, sector exposure)
-- 🧮 ESG & credit risk correlation modeling
-- 🗺 Gap & risk matrix building using real-world frameworks
-- 📈 Data visualization with Python (heatmaps, bar charts, timelines)
-- 🏛 EU sustainable finance regulation analysis (GBS, Taxonomy)
-- 🧰 Tools: pandas, seaborn, scikit-learn, plotly, Excel
-
----
-
-# 🇩🇪 Basierend auf meinem Artikel:
-👉 [Greenwashed Promises und Transition Scams – Warum Europas Anleihenmärkte ein Glaubwürdigkeitsproblem haben](https://www.linkedin.com/pulse/greenwashed-promises-und-transition-scams-warum-saveeza-chaudhry--zx1xf)
-
-🗣 *Die folgende Analyse und Dokumentation sind auf Englisch, damit sie international zugänglich sind.*
-
----
-
 # 📊 Transition Bonds Europe: Gap, Risk, Data & Policy Analysis
 
 > **A professional research & data analytics project exploring credibility gaps, policy risk, and country-level exposure in European transition bonds.**  
@@ -29,45 +11,62 @@
 
 ---
 
-## 📚 Table of Contents
-- [About This Project](#-about-this-project)
-- [What Makes This Project Unique](#-what-makes-this-project-unique)
-- [Structure](#-structure)
-- [Research Series](#-part-of-my-esg--transition-bonds-research-series)
-- [Why This Matters](#-why-this-matters)
-- [Status](#-status)
+## 🇩🇪 Basierend auf meinem Artikel  
+👉 [Greenwashed Promises und Transition Scams – Warum Europas Anleihenmärkte ein Glaubwürdigkeitsproblem haben](https://www.linkedin.com/pulse/greenwashed-promises-und-transition-scams-warum-saveeza-chaudhry--zx1xf)  
+🗣 *Die folgende Analyse und Dokumentation sind auf Englisch, damit sie international zugänglich sind.*
 
 ---
 
-## 📄 **About This Project**
+## 🧠 Key Technical Skills Demonstrated
 
-This project goes beyond EU-wide numbers to analyze:
-- **Country-level issuance trends** (e.g. Germany, France, Italy)
-- **Exposure to hard-to-abate sectors**
-- **Correlation analysis** of ESG scores vs. credit spreads
-- **Policy risk**: gaps in EU Green Bond Standard & certification
-- Visual insights, commentary, and real references
-
-It bridges **policy research** and **data analysis** to test:  
-> *Are transition bonds truly driving decarbonization — or masking risk?*
+- 📊 Advanced financial data analysis (issuance patterns, sector exposure)  
+- 🧮 ESG & credit risk correlation modeling  
+- 🗺 Gap & risk matrix building using real-world regulatory frameworks  
+- 📈 Data visualization with Python (heatmaps, radar plots, bar charts)  
+- 🏛 Deep dive into EU sustainable finance regulations (GBS, Taxonomy)  
+- 🧰 Tools: pandas, seaborn, scikit-learn, plotly, Excel
 
 ---
 
-## 🧰 **What makes this project unique**
-✅ Combines real data (based on references in my article) with advanced visual analytics  
-✅ Focuses on **specific EU countries** rather than just the EU as a block  
-✅ Covers **policy & regulatory frameworks** + data trends  
-✅ Fully documented in English for global hiring audience — rooted in original German research  
-✅ Highlights **greenwashing risk & credibility gap** — critical topics in ESG finance
+## 📘 What’s Inside the Notebook
+
+- 📥 **Loads** `transition_issuance.csv` and `policy_gap_matrix.csv`  
+- 📊 **Correlation matrix** between ESG score, credit spreads & issuance volume  
+- 🧠 **Country-level policy credibility review** (Germany, France, Italy)  
+- 🕸 **Radar chart visualization** of EU policy gaps  
+- ✅ **Conclusions & recommendations** for improving bond credibility
 
 ---
 
-## 📂 **Structure**
+## 🖼️ Visuals
 
-- `data/` → CSV dataset on country-level issuance & ESG scores
-- `notebooks/` → Jupyter notebook with charts, correlation matrix, risk commentary
-- `requirements.txt` → Python libraries
-- `LICENSE` → Project license
+### ESG vs Credit Spread Correlation  
+![Correlation Matrix](visuals/correlation_matrix.png)
+
+### Policy Gaps Radar Chart  
+![Policy Gap Radar](visuals/policy_gaps_radar.png)
+
+---
+
+## 📂 Project Structure
+
+```plaintext
+📁 data/
+    ├── transition_issuance.csv
+    └── policy_gap_matrix.csv
+
+📁 notebooks/
+    └── transition_bond_analysis.ipynb
+
+📁 visuals/
+    ├── correlation_matrix.png
+    └── policy_gaps_radar.png
+
+📁 references/
+    └── (to be added)
+
+📄 article/
+    └── transition_bonds_europe_analysis.pdf
 
 ---
 
@@ -86,11 +85,12 @@ This analysis shows:
 
 ---
 
-## ✅ **Status**
-- ✅ Article published (in German)
-- ✅ Repo & README created
-- 🔧 Data & advanced analysis notebook coming next
+## 📌 Project Status
+
+- ✅ German article published  
+- ✅ Repository structure, data, visuals, and analysis notebook complete  
+- 🔜 More country comparisons and references coming soon
 
 ---
 
-*For questions, feedback or German summary, feel free to reach out!*
+📫 *Questions, feedback, or want the summary in German? Feel free to get in touch.*
