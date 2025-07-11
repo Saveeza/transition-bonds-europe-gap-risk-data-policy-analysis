@@ -4,6 +4,17 @@
 
 ---
 
+## 🇩🇪 Herkunft der Analyse
+
+Diese Analyse basiert auf meinem deutschsprachigen Artikel:  
+👉 [Greenwashed Promises und Transition Scams – Warum Europas Anleihenmärkte ein Glaubwürdigkeitsproblem haben](https://www.linkedin.com/pulse/greenwashed-promises-und-transition-scams-warum-saveeza-chaudhry--zx1xf)
+
+> 📘 *Das Projekt ist auf Englisch dokumentiert, um international zugänglich und beruflich nutzbar zu sein.*  
+> 📄 Eine deutsche PDF-Zusammenfassung ist unter [`/article/`](./article/) verfügbar.
+
+---
+
+
 # 📊 Transition Bonds Europe: Gap, Risk, Data & Policy Analysis
 
 > **A professional research & data analytics project exploring credibility gaps, policy risk, and country-level exposure in European transition bonds.**  
@@ -11,11 +22,6 @@
 
 ---
 
-## 🇩🇪 Basierend auf meinem Artikel  
-👉 [Greenwashed Promises und Transition Scams – Warum Europas Anleihenmärkte ein Glaubwürdigkeitsproblem haben](https://www.linkedin.com/pulse/greenwashed-promises-und-transition-scams-warum-saveeza-chaudhry--zx1xf)  
-🗣 *Die folgende Analyse und Dokumentation sind auf Englisch, damit sie international zugänglich sind.*
-
----
 
 ## 🧠 Key Technical Skills Demonstrated
 
