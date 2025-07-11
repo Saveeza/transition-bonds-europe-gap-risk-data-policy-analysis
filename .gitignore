@@ -1,3 +1,11 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Data dumps (if you want)
+data/*.zip
+data/*.tar
+---
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
