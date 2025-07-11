@@ -1,3 +1,7 @@
+[![Launch in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Saveeza/transition-bonds-europe-gap-risk-data-policy-analysis/HEAD)
+
+---
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 ![Data Status](https://img.shields.io/badge/Data-Incoming-orange)
 ![Language](https://img.shields.io/badge/Language-English-blue)
