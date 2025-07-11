@@ -1,0 +1,16 @@
+## 📘 What’s Inside the Notebook
+
+- 📥 **Loads** `transition_issuance.csv` and `policy_gap_matrix.csv`  
+  → Country-level ESG, issuance, and policy alignment data
+
+- 📊 **Correlation Matrix**  
+  → Analyzes relationships between ESG scores, credit spreads, and issuance volumes
+
+- 🧠 **Policy Commentary**  
+  → In-depth analysis of Germany, France, and Italy based on EU Green Bond Standard criteria
+
+- 🕸 **Radar Chart Visualization**  
+  → Graphs credibility gaps in regulatory and certification structures
+
+- ✅ **Conclusions & Recommendations**  
+  → Expert insights on how policy flaws affect bond credibility, risk exposure, and market trust
