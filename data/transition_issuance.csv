@@ -1,0 +1,10 @@
+Country,Year,Sector,Bond Type,EUR Million,ESG Score,Credit Spread (bps)
+Germany,2022,Energy,Transition Bond,850,72,98
+France,2022,Transport,Transition Bond,460,75,85
+Italy,2022,Heavy Industry,Transition Bond,610,63,112
+Germany,2023,Utilities,Transition Bond,720,77,94
+France,2023,Construction,Transition Bond,380,70,90
+Italy,2023,Cement,Transition Bond,500,61,120
+Germany,2024,Steel,Transition Bond,940,80,88
+France,2024,Chemicals,Transition Bond,610,74,82
+Italy,2024,Transport,Transition Bond,550,66,110
