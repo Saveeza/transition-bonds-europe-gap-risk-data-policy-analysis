@@ -1,83 +1,69 @@
-# 🌱 From Greenwashing to Real Impact — Why Transition Bonds Matter
+# 🇩🇪 Basierend auf meinem Artikel:
+👉 [Greenwashed Promises und Transition Scams – Warum Europas Anleihenmärkte ein Glaubwürdigkeitsproblem haben](https://www.linkedin.com/pulse/greenwashed-promises-und-transition-scams-warum-saveeza-chaudhry--zx1xf)
 
-> **A data-driven, research-backed analysis of transition bonds, exploring global issuance trends, credibility gaps, and real-world policy risks.**  
-> Combines financial data analysis, ESG research, and narrative commentary to test whether transition bonds deliver real sustainability impact.
-
----
-
-## 📑 **About This Project**
-
-This project expands on my published article:  
-👉 [From Greenwashing to Real Impact — Why Transition Bonds Matter](https://www.linkedin.com/pulse/from-greenwashing-real-impact-why-transition-bonds-saveeza-chaudhry--pbblf)
-
-It goes beyond narrative to apply:
-- Quantitative data analysis (issuance trends, ESG scores)
-- Visualization of market growth vs. policy credibility
-- Commentary rooted in policy frameworks & standards (e.g., CBI, EU Taxonomy)
-- *Real references & external datasets* (as cited in article)
+🗣 *Die folgende Analyse und Dokumentation sind auf Englisch, damit sie international zugänglich sind.*
 
 ---
 
-## 📊 **What makes this project unique**
-✅ Combines financial analysis & policy research  
-✅ Tests real-world data against narrative claims  
-✅ Focuses on **impact** — not just issuance volume  
-✅ Links directly to published article → shows communication & research skills  
-✅ Fully documented, with references & context
+# 📊 Transition Bonds Europe: Gap, Risk, Data & Policy Analysis
+
+> **A professional research & data analytics project exploring credibility gaps, policy risk, and country-level exposure in European transition bonds.**  
+> Combines data science, financial analysis, and ESG policy review to assess whether transition bonds drive real impact — or just greenwashing.
 
 ---
 
-## 🧰 **Project Structure**
+## 📄 **About This Project**
 
-- `data/` → Dataset on global transition bond issuance & ESG scores
-- `notebooks/` → Jupyter notebook:
-  - Issuance growth analysis (2019–2024)
-  - ESG rating correlation
-  - Sector-level exposure
-  - Commentary on credibility risk
+This project goes beyond EU-wide numbers to analyze:
+- **Country-level issuance trends** (e.g. Germany, France, Italy)
+- **Exposure to hard-to-abate sectors**
+- **Correlation analysis** of ESG scores vs. credit spreads
+- **Policy risk**: gaps in EU Green Bond Standard & certification
+- Visual insights, commentary, and real references
+
+It bridges **policy research** and **data analysis** to test:  
+> *Are transition bonds truly driving decarbonization — or masking risk?*
+
+---
+
+## 🧰 **What makes this project unique**
+✅ Combines real data (based on references in my article) with advanced visual analytics  
+✅ Focuses on **specific EU countries** rather than just the EU as a block  
+✅ Covers **policy & regulatory frameworks** + data trends  
+✅ Fully documented in English for global hiring audience — rooted in original German research  
+✅ Highlights **greenwashing risk & credibility gap** — critical topics in ESG finance
+
+---
+
+## 📂 **Structure**
+
+- `data/` → CSV dataset on country-level issuance & ESG scores
+- `notebooks/` → Jupyter notebook with charts, correlation matrix, risk commentary
 - `requirements.txt` → Python libraries
 - `LICENSE` → Project license
-- `README.md` → This file
-
----
-
-## 🌍 **Context & real-life relevance**
-Transition bonds are widely marketed as the “bridge” to decarbonization — but questions remain about:
-- Alignment with **EU Green Bond Standard & CBI taxonomy**
-- Use-of-proceeds vs. actual impact
-- Heavy industry issuers & credibility gap
-- Policy risk from future regulation
-
-This project uses data analysis to test if market growth matches *real decarbonization potential* — a key skill in sustainable finance & ESG risk analytics.
 
 ---
 
 ## 🔗 **Part of my ESG & transition bonds research series**
 
-- 🌱 [Transition Bonds Europe: Gap, Risk, Data & Policy Analysis](https://github.com/Saveeza/transition-bonds-europe-gap-risk-data-policy-analysis)
+- 🌍 [From Greenwashing to Real Impact — Why Transition Bonds Matter](https://github.com/Saveeza/transition-bonds-impact-analysis)
 - 🇪🇺 [Transition Bonds: The New Greenwashing?](https://www.linkedin.com/pulse/transition-bonds-new-greenwashing-how-europes-bond-market-chaudhry--sqdvf)
 
 ---
 
-## 📦 **Technical tools & skills demonstrated**
-- Python (pandas, matplotlib, seaborn)
-- Data cleaning & aggregation
-- Correlation & descriptive analytics
-- ESG policy research & external referencing
-- Communicating results for non-technical audiences
+## 🙌 **Why this matters**
+This analysis shows:
+- How credibility gaps differ across European countries
+- Where policy risk is highest
+- Why data-driven insight is key to avoid greenwashing in sustainable finance
 
 ---
 
 ## ✅ **Status**
-- ✅ Article published
+- ✅ Article published (in German)
 - ✅ Repo & README created
-- 🔧 Adding advanced notebook & charts
+- 🔧 Data & advanced analysis notebook coming next
 
 ---
 
-## 🙌 **Why this matters (call to action)**
-Understanding *where transition bonds succeed — and where they risk greenwashing —* is critical for sustainable finance.  
-This project shows how data & policy analysis together can support **credible investment decisions**.
-
-*For collaboration, questions or discussion, feel free to reach out!*
-
+*For questions, feedback or German summary, feel free to reach out!*
