@@ -7,6 +7,9 @@
 ![Language](https://img.shields.io/badge/Language-English-blue)
 
 ---
+<img src="visuals/greenwashing_transition_german_banner.png" alt="Transition Bonds Europe – Gap, Risk & Policy Analysis" style="width:100%; margin-top:20px;">
+
+---
 
 ## 🇩🇪 Herkunft der Analyse
 
@@ -74,9 +77,13 @@ Diese Analyse basiert auf meinem deutschsprachigen Artikel:
 
 📁 references/
     └── (to be added)
+```
+---
 
-📄 article/
-    └── transition_bonds_europe_analysis.pdf
+📄 Article/
+    📌 Based on my article (in German):  
+👉 [Greenwashed Promises und Transition Scams, Warum Europas Anleihemärkte an Glaubwürdigkeit verlieren (PDF)](article/Greenwashed%20Promises%20und%20Transition%20Scams,%20Warum%20Europas%20Anleihem%C3%A4rkte%20an%20Glaubw%C3%BCrdigkeit%20verlieren.pdf)
+
 
 ---
 
@@ -95,11 +102,14 @@ This analysis shows:
 
 ---
 
-## 📌 Project Status
+## 🚧 Project Status
+✅ Repository created & structured  
+✅ All data, visuals, and notebook finalized  
+✅ Article PDF uploaded and linked  
+✅ Banner added  
+✅ README fully written  
+📌 Project complete and published
 
-- ✅ German article published  
-- ✅ Repository structure, data, visuals, and analysis notebook complete  
-- 🔜 More country comparisons and references coming soon
 
 ---
 
